@@ -33,6 +33,6 @@
     "test": "./node_modules/webpack/bin/webpack.js --config webpack.config.test.js"
   },
   "dependencies": {
-    "jquery": "^3.3.1"
+    "jquery": "^3.5.0"
   }
 }
